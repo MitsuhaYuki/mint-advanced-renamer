@@ -22,7 +22,10 @@
   },
   "dependencies": {
     "@electron-toolkit/preload": "^3.0.0",
-    "@electron-toolkit/utils": "^3.0.0"
+    "@electron-toolkit/utils": "^3.0.0",
+    "ahooks": "^3.7.11",
+    "antd": "^5.16.5",
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "@electron-toolkit/eslint-config-prettier": "^2.0.0",
