@@ -1,0 +1,10 @@
+.versions {
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 10px 0;
+
+  &-item {
+    margin: 5px 0;
+    white-space: nowrap;
+  }
+}
